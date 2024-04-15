@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "958550164312",
+    "firebase_url": "https://calculadora-amor.firebaseio.com",
+    "project_id": "calculadora-amor",
+    "storage_bucket": "calculadora-amor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958550164312:android:f574ac789385bf52d45b2d",
+        "android_client_info": {
+          "package_name": "com.b2x.multivendoradmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958550164312-er3388uqd265f0rba8bvh8qnokkq23jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-y8pcH5l1XXLkizXU_F2D0LfiiESOhjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958550164312-er3388uqd265f0rba8bvh8qnokkq23jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958550164312:android:2664463c6621c48bd45b2d",
+        "android_client_info": {
+          "package_name": "com.b2x.multivendorseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958550164312-er3388uqd265f0rba8bvh8qnokkq23jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-y8pcH5l1XXLkizXU_F2D0LfiiESOhjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958550164312-er3388uqd265f0rba8bvh8qnokkq23jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958550164312:android:8b55eec14197fa4dd45b2d",
+        "android_client_info": {
+          "package_name": "com.b2x.multivendorstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958550164312-er3388uqd265f0rba8bvh8qnokkq23jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-y8pcH5l1XXLkizXU_F2D0LfiiESOhjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958550164312-er3388uqd265f0rba8bvh8qnokkq23jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958550164312:android:10d42321525621c2d45b2d",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958550164312-er3388uqd265f0rba8bvh8qnokkq23jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-y8pcH5l1XXLkizXU_F2D0LfiiESOhjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958550164312-er3388uqd265f0rba8bvh8qnokkq23jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
